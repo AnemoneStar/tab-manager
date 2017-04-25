@@ -1,0 +1,12 @@
+#tabs {
+    position:relative;
+}
+li:hover {
+    background:#eee;
+}
+li .glyphicon-remove {
+    color:#aaa;
+}
+li:hover .glyphicon-remove {
+    color:black;
+}
